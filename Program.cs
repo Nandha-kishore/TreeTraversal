@@ -6,7 +6,7 @@ namespace TreeTraversal_Inorder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Trees");
+            Console.WriteLine("Welcome to Inroduction on Trees");
            
             BinaryTree tree = new BinaryTree();
             tree.Add(10);
